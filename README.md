@@ -2,6 +2,10 @@
 
 A lightweight, thread-safe document database that stores data in a single JSON file.
 
+![PyPI - Status](https://img.shields.io/pypi/status/pymangodb) ![PyPI - Format](https://img.shields.io/pypi/format/pymango)
+
+
+
 ## Features
 
 - Thread-safe operations with read-write locking
@@ -15,7 +19,7 @@ A lightweight, thread-safe document database that stores data in a single JSON f
 ## Installation
 
 ```bash
-pip install mangodb
+pip install pymangodb
 ```
 
 ## Quick Start
