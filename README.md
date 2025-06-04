@@ -2,7 +2,8 @@
 
 A lightweight, thread-safe document database that stores data in a single JSON file.
 
-![PyPI - Status](https://img.shields.io/pypi/status/pymangodb) ![PyPI - Format](https://img.shields.io/pypi/format/pymango)
+<a href="https://pypi.org/project/pymangodb/" target="_blank">![PyPI - Status](https://img.shields.io/pypi/status/pymangodb)</a>
+<a href="https://pypi.org/project/pymangodb/" target="_blank">![PyPI - Format](https://img.shields.io/pypi/format/pymango)</a>
 
 
 

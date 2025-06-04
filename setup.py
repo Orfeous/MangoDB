@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pymangodb",
-    version="0.1.0",
+    version="0.1.1",
     author="Gabor Racz",
     author_email="orfeous@olab.app",
     description="A lightweight, dependency-free document database for Python",

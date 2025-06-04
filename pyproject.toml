@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pymangodb"
-version = "0.1.0"
+version = "0.1.1"
 description = "A lightweight, dependency-free document database for Python"
 authors = [
     { name="Gabor Racz", email="orfeous@olab.app" }
