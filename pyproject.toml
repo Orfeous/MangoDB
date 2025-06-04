@@ -7,7 +7,7 @@ name = "pymangodb"
 version = "0.1.0"
 description = "A lightweight, dependency-free document database for Python"
 authors = [
-    { name="Your Name", email="your.email@example.com" }
+    { name="Gabor Racz", email="orfeous@olab.app" }
 ]
 readme = "README.md"
 requires-python = ">=3.7"
@@ -24,4 +24,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/mangodb"
+Homepage = "https://github.com/orfeous/mangodb"
